@@ -1,35 +1,31 @@
-## Hi there 👋
+# Alima Sayed
 
-# Hi, I'm Alima 👋
+Final year Web Technology student · Frontend developer in progress · Designer at heart
 
-Aspiring frontend developer with a passion for building clean, 
-user-friendly web experiences.
+Passionate about crafting beautiful UIs and building tools that are 
+as pretty as they are functional. Currently on a focused journey 
+from JavaScript to React — one project at a time.
 
-## 🌱 Currently Learning
-- JavaScript (ES6+)
-- React — coming soon
+---
 
-## 🎯 Goal
-Frontend Developer
+🌱 &nbsp;Learning **JavaScript** → **React**
+🎯 &nbsp;Goal: Frontend Developer
+🎨 &nbsp;Design tools: Figma · Canva · Inkscape
 
-## 🛠️ Skills & Tools
+---
 
-**Frontend**
-HTML • CSS • JavaScript
+**Languages & Tools**
 
-**Backend & Languages**
-Python • PHP • C • C++ • Basic SQL
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Testing & DevOps**
-Selenium • JUnit • Jenkins
+---
 
-**Design**
-Figma • Canva • Inkscape
-
-## 💬 A bit about me
-I'm a designer-developer combo — equally comfortable writing 
-code and crafting visuals. Currently on a focused journey from 
-JavaScript to React, building real projects along the way.
+*Building projects · Breaking things · Learning every day*
 
 <!--
 **alima-sayed/alima-sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
